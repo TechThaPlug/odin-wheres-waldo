@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api";
+const API_URL = "https://odin-wheres-waldo-nn9t.onrender.com/api";
 
 const elements = {
   timer: document.getElementById("timer"),
