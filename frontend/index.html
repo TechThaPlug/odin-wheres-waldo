@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Find all the hidden characters in The Busy Town. Test your observation skills and compete for the fastest time!"
+    />
+    <title>Where's Waldo? | The Busy Town</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="logo" href="/">Where's Waldo?</a>
+      <span class="header-tagline">The ultimate finding challenge</span>
+    </header>
+
+    <main class="container">
+      <section class="game-heading">
+        <div>
+          <p class="eyebrow">CAN YOU FIND THEM ALL?</p>
+          <h1>The Busy Town</h1>
+          <p class="instructions">
+            Select a character below, then click where you think they're hiding.
+          </p>
+        </div>
+        <div class="timer-panel">
+          <span>YOUR TIME</span>
+          <strong id="timer">00:00</strong>
+        </div>
+      </section>
+
+      <section class="character-panel">
+        <h2>Find these characters</h2>
+        <div id="character-list" class="character-list">
+          <p>Loading characters...</p>
+        </div>
+      </section>
+
+      <section class="game-panel">
+        <div class="game-toolbar">
+          <span id="game-status">Loading game...</span>
+          <button id="restart-button" class="secondary-button" disabled>
+            Restart game
+          </button>
+        </div>
+
+        <div id="image-container" class="image-container">
+          <img
+            id="game-image"
+            src="images/sample-scene.svg"
+            alt="A busy illustrated town filled with people. Find the three hidden characters."
+          />
+          <div id="markers" class="markers"></div>
+        </div>
+
+        <p id="feedback" class="feedback" role="status" aria-live="polite">
+          Loading the scene...
+        </p>
+      </section>
+
+      <section class="leaderboard-panel">
+        <h2>Top 10 fastest players</h2>
+        <div id="leaderboard">
+          <p>Loading leaderboard...</p>
+        </div>
+      </section>
+    </main>
+
+    <dialog id="score-dialog">
+      <form id="score-form">
+        <h2>Congratulations!</h2>
+        <p>You found everyone. Enter your name to save your score.</p>
+        <label for="player-name">Your name</label>
+        <input
+          id="player-name"
+          name="playerName"
+          type="text"
+          minlength="1"
+          maxlength="20"
+          pattern="[\p{L}\p{N} _-]+"
+          required
+          autocomplete="nickname"
+          placeholder="Enter your name"
+        />
+        <p id="score-error" class="error-message"></p>
+        <button type="submit" id="save-score-button">Save my score</button>
+      </form>
+    </dialog>
+
+    <footer class="site-footer">
+      <p>Where's Waldo? — Test your observation skills.</p>
+    </footer>
+  </body>
+</html>

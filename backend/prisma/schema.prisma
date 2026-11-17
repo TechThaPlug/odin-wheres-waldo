@@ -1,0 +1,56 @@
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Game {
+  id         Int           @id @default(autoincrement())
+  slug       String        @unique
+  name       String
+  imageUrl   String
+  width      Int
+  height     Int
+  characters Character[]
+  sessions   GameSession[]
+  createdAt  DateTime      @default(now())
+}
+
+model Character {
+  id     Int        @id @default(autoincrement())
+  name   String
+  x      Int
+  y      Int
+  radius Int
+  gameId Int
+  game   Game       @relation(fields: [gameId], references: [id], onDelete: Cascade)
+  finds  GameFind[]
+}
+
+model GameSession {
+  id          String     @id @default(uuid())
+  gameId      Int
+  game        Game       @relation(fields: [gameId], references: [id], onDelete: Cascade)
+  startedAt   DateTime   @default(now())
+  completedAt DateTime?
+  completed   Boolean    @default(false)
+  playerName  String?
+  scoreMs     Int?
+  finds       GameFind[]
+
+  @@index([gameId, scoreMs])
+}
+
+model GameFind {
+  sessionId   String
+  characterId Int
+  foundAt     DateTime     @default(now())
+  session     GameSession  @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  character   Character    @relation(fields: [characterId], references: [id], onDelete: Cascade)
+
+  @@id([sessionId, characterId])
+}

@@ -1,0 +1,1709 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1600" height="1000"
+     viewBox="0 0 1600 1000">
+  <rect width="100%" height="100%" fill="#dbeafe"/>
+  <path d="M0 250 H1600 M0 500 H1600 M0 750 H1600"
+        stroke="#bfdbfe" stroke-width="5"/>
+  
+    <g transform="translate(0 0)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(137 83)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(274 166)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(411 249)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(548 332)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(685 415)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(822 498)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(959 581)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1096 664)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1233 747)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1370 830)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1507 913)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(44 996)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(181 79)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(318 162)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(455 245)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(592 328)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(729 411)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(866 494)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1003 577)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1140 660)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1277 743)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1414 826)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1551 909)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(88 992)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(225 75)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(362 158)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(499 241)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(636 324)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(773 407)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(910 490)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1047 573)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1184 656)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1321 739)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1458 822)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1595 905)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(132 988)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(269 71)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(406 154)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(543 237)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(680 320)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(817 403)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(954 486)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1091 569)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1228 652)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1365 735)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1502 818)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(39 901)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(176 984)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(313 67)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(450 150)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(587 233)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(724 316)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(861 399)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(998 482)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1135 565)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1272 648)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1409 731)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1546 814)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(83 897)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(220 980)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(357 63)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(494 146)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(631 229)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(768 312)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(905 395)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1042 478)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1179 561)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1316 644)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1453 727)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1590 810)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(127 893)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(264 976)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(401 59)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(538 142)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(675 225)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(812 308)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(949 391)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1086 474)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1223 557)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1360 640)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1497 723)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(34 806)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(171 889)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(308 972)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(445 55)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(582 138)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(719 221)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(856 304)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(993 387)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1130 470)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1267 553)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1404 636)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1541 719)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(78 802)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(215 885)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(352 968)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(489 51)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(626 134)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(763 217)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(900 300)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1037 383)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1174 466)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1311 549)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1448 632)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1585 715)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(122 798)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(259 881)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(396 964)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(533 47)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(670 130)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(807 213)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(944 296)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1081 379)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1218 462)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1355 545)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1492 628)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(29 711)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(166 794)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(303 877)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(440 960)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(577 43)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(714 126)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(851 209)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(988 292)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1125 375)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1262 458)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1399 541)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1536 624)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(73 707)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(210 790)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(347 873)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(484 956)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(621 39)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(758 122)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(895 205)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1032 288)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1169 371)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1306 454)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1443 537)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1580 620)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(117 703)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(254 786)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(391 869)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(528 952)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(665 35)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(802 118)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(939 201)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1076 284)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1213 367)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1350 450)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1487 533)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(24 616)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(161 699)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(298 782)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(435 865)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(572 948)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(709 31)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(846 114)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(983 197)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1120 280)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1257 363)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1394 446)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1531 529)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(68 612)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(205 695)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(342 778)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(479 861)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(616 944)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(753 27)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(890 110)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1027 193)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1164 276)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1301 359)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1438 442)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1575 525)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(112 608)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(249 691)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(386 774)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(523 857)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(660 940)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(797 23)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(934 106)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1071 189)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1208 272)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1345 355)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1482 438)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(19 521)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(156 604)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(293 687)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(430 770)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(567 853)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(704 936)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(841 19)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(978 102)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1115 185)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1252 268)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1389 351)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1526 434)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(63 517)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(200 600)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(337 683)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(474 766)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(611 849)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(748 932)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(885 15)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1022 98)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1159 181)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1296 264)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1433 347)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1570 430)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(107 513)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(244 596)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(381 679)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(518 762)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(655 845)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(792 928)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(929 11)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1066 94)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1203 177)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1340 260)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1477 343)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(14 426)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(151 509)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(288 592)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(425 675)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(562 758)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(699 841)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(836 924)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(973 7)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1110 90)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1247 173)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1384 256)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1521 339)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(58 422)">
+      <circle r="13" fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fca5a5" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(195 505)">
+      <circle r="13" fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#93c5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(332 588)">
+      <circle r="13" fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#86efac" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(469 671)">
+      <circle r="13" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fde68a" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(606 754)">
+      <circle r="13" fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#c4b5fd" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(743 837)">
+      <circle r="13" fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <path d="M-15 17 Q0 5 15 17 L20 55 H-20 Z"
+        fill="#fdba74" stroke="#334155" stroke-width="2"/>
+      <circle cx="-5" cy="-2" r="2" fill="#1e293b"/>
+      <circle cx="5" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <g transform="translate(1180 620)">
+      <circle r="25" fill="#dc2626" stroke="#111827" stroke-width="3"/>
+      <path d="M-24 -8 H24 M-24 0 H24 M-24 8 H24"
+        stroke="white" stroke-width="5"/>
+      <circle cx="-8" cy="-3" r="3" fill="#111827"/>
+      <circle cx="8" cy="-3" r="3" fill="#111827"/>
+    </g>
+    <g transform="translate(330 340)">
+      <circle r="25" fill="#7c3aed" stroke="#111827" stroke-width="3"/>
+      <path d="M-24 -8 H24 M-24 0 H24 M-24 8 H24"
+        stroke="white" stroke-width="5"/>
+      <circle cx="-8" cy="-3" r="3" fill="#111827"/>
+      <circle cx="8" cy="-3" r="3" fill="#111827"/>
+    </g>
+    <g transform="translate(820 840)">
+      <circle r="25" fill="#ec4899" stroke="#111827" stroke-width="3"/>
+      <path d="M-24 -8 H24 M-24 0 H24 M-24 8 H24"
+        stroke="white" stroke-width="5"/>
+      <circle cx="-8" cy="-3" r="3" fill="#111827"/>
+      <circle cx="8" cy="-3" r="3" fill="#111827"/>
+    </g>
+</svg>
